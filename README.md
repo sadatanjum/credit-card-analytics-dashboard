@@ -85,9 +85,10 @@ The web application (`app.py`) is structured into four interactive modules:
 
 ### Step-by-Step Setup
 
-1. **Clone or Navigate to the project directory**:
+1. **Clone the project repository**:
    ```bash
-   cd F:/Projects/AI
+   git clone https://github.com/sadatanjum/credit-card-analytics-dashboard.git
+   cd credit-card-analytics-dashboard
    ```
 
 2. **Install dependencies**:
